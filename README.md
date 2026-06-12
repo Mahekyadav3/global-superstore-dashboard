@@ -14,7 +14,7 @@ An interactive business intelligence dashboard built with **Tableau Public**, an
  
 | Resource | Link |
 |----------|------|
-| 🌐 Live Dashboard (GitHub Pages) | [Click here](https://Mahekyadav3.github.io/global-superstore-dashboard) |
+| 🌐 Live Dashboard (GitHub Pages) | [Click here](https://Mahekyadav3.github.io/global-superstore-tableau-dashboard) |
 | 📈 View on Tableau Public | [Click here](https://public.tableau.com/views/globalsuperstoreanalysis_17516518435360/GlobalSuperstoreSalesInsightsDashboard) |
  
 ---
